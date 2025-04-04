@@ -1,0 +1,18 @@
+# Virtual Environment
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model and log files
+*.pkl
+*.joblib
+
+# Data (optional, if large)
+*.csv
+data/
